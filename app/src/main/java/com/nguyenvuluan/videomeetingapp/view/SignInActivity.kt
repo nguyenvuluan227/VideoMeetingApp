@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.nguyenvuluan.videomeetingapp.R
 import kotlinx.android.synthetic.main.activity_sign_in.*
 
+
 class SignInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
