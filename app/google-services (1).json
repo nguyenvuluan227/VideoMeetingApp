@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055737317104",
+    "firebase_url": "https://video-meeting-app-5eeff.firebaseio.com",
+    "project_id": "video-meeting-app-5eeff",
+    "storage_bucket": "video-meeting-app-5eeff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055737317104:android:9306021215ea2894cda435",
+        "android_client_info": {
+          "package_name": "com.nguyenvuluan.videomeetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055737317104-epben6qjjqo9mu4rqi16418n3iiv4u0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08Ez7sVzRiOfHdNfWT78BKMKkOz04kDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055737317104-epben6qjjqo9mu4rqi16418n3iiv4u0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
